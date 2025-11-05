@@ -170,7 +170,7 @@ if st.session_state.page == 3:
 # Step 4: Digital Health Readiness + Final Assessment
 # ----------------------------
 if st.session_state.page == 4:
-    st.header("Step 4: Digital Health Readiness")
+    st.header("Step 3: Digital Health Readiness")
 
     wearable_use = st.selectbox(
         "Do you currently use a smartwatch / fitness band / health wearable?",
@@ -260,3 +260,4 @@ if st.session_state.page == 4:
                 final_message = "Your health risk is low, and your digital readiness is low. You are doing fine with your current habits. Tracking your health is optional — but small efforts can still support long-term wellness."
 
             st.info(final_message)
+
