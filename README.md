@@ -46,3 +46,12 @@ The final result shows only:
 - Descriptive interpretation
 
 Digital wellness score questions exist but are not shown or used in the final scoring display.
+
+--- 
+
+## Author
+
+**Dr. Akshaya Tharankini A**  
+Healthcare Data & AI Specialist | SQL | Python | Power BI  
+*Email: drakshayatharankini@gmail.com*  
+*LinkedIn: https://www.linkedin.com/in/dr-akshaya-tharankini/*
