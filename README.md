@@ -1,6 +1,6 @@
 # Preventra – Advanced Health Risk Assessment (Streamlit App)
 
-Preventra is an interactive health risk scoring application built using **Streamlit**.  
+Preventra is an interactive health risk scoring application.  
 It collects an individual's lifestyle, medical, and demographic profiles → then calculates a **Health Risk Score** (Biomedical Risk Estimate).
 
 The application is designed for preventive health coaching workflows & early risk stratification for wellness programs.
