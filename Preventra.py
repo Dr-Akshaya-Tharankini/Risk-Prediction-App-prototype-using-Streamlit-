@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="LifeRisk.AI - Advanced Health Risk Assessment", layout="wide")
+st.set_page_config(page_title="Preventra - Health Risk Assessment", layout="wide")
 
 # Initialize session state
 if "page" not in st.session_state:
@@ -211,3 +211,4 @@ if st.session_state.page == 4:
             | 7 – 10      | High       |
             """
             )
+
