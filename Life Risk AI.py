@@ -8,7 +8,7 @@ if "page" not in st.session_state:
     st.session_state.page = 1
 
 # App Title
-st.title("📋 Preventra.AI – Advanced Health Risk Assessment")
+st.title("📋 Preventra – Advanced Health Risk Assessment")
 st.markdown("Comprehensive lifestyle and health analysis with disease-specific morbidity risk calculations.")
 
 # ----------------------------
@@ -256,6 +256,7 @@ if st.session_state.page == 4:
                 final_message = "Your health risk is low, and your digital readiness is low. You are doing fine with your current habits. Tracking your health is optional — but small efforts can still support long-term wellness."
 
             st.info(final_message)
+
 
 
 
